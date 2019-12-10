@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/influxdata/influxdb1-client/models"
+	"github.com/Heo-youngseo/influxdb1-client/models"
 )
 
 const (
